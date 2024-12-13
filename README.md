@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-8A2BE2)
 ![Static Badge](https://img.shields.io/badge/RAG-8A2BE2)
 ![Static Badge](https://img.shields.io/badge/Ollama-4CAF50)
-![Static Badge](https://img.shields.io/badge/Hugging%20Face%20Transformer-4CAF50)
+![Static Badge](https://img.shields.io/badge/OpenAI-4CAF50)
 
 This repository contains a chatbot that uses the LlamaIndex library and OpenAI's GPT models for intelligent question-answering based on textual data. The chatbot ingests `.txt` files, processes them into an index, and allows for interactive querying with memory support.
 
